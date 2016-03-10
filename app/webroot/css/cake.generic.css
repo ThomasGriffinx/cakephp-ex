@@ -23,7 +23,7 @@
 
 /** General Style Info **/
 body {
-	background: Green;
+	background: ;
 	color: #fff;
 	font-family:'lucida grande',verdana,helvetica,arial,sans-serif;
 	font-size:90%;
@@ -47,7 +47,7 @@ h1, h2, h3, h4 {
 }
 h1 {
 	background:#fff;
-	color: #003d4c;
+	color: red;
 	font-size: 100%;
 }
 h2 {
