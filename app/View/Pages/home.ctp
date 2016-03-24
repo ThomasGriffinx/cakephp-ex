@@ -224,5 +224,8 @@ You can also add some CSS styles for your pages at: %s.',
 	<li><a href="https://cakephp.lighthouseapp.com/"><?php echo __d('cake_dev', 'CakePHP Lighthouse'); ?> </a>
 	<ul><li><?php echo __d('cake_dev', 'CakePHP Tickets, Wiki pages, Roadmap'); ?></li></ul></li>
 </ul>
-<p>Test</p>
+<p></p>
+
+
+<p> Hi Guys</p>
 
