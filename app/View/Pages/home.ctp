@@ -227,5 +227,4 @@ You can also add some CSS styles for your pages at: %s.',
 <p></p>
 
 
-<p> Hi Guys</p>
 
