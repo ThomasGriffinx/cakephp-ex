@@ -227,7 +227,7 @@ You can also add some CSS styles for your pages at: %s.',
 
 
 <br> </br> 
-<p> Demo</p>
+<p> I am making a small change to this application to show the build </p>
 
 
 
